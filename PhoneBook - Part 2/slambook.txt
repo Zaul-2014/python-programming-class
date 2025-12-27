@@ -1,0 +1,13 @@
+
+--- New Entry ---
+What is your name? zaul
+What is your nickname? zaultron
+When is your birthday? 2014/10/2025
+What is your favorite color? white
+What is your favorite food? baked beans
+What is your biggest fear? cokroaches
+Who is your best friend? yoosuf
+What is your dream job? machanical engineer
+One word that describes you: tecy
+Any message for me? for i in range(0, 100):
+
